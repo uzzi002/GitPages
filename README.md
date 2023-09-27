@@ -4,7 +4,9 @@ https://uzzi002.github.io/GitPages/
 
 This Android application helps users learn and practice the Dewey Decimal Classification system in a fun and engaging way.
 
-[Link Text](#section-heading)
+[How to Compile and Run](#how-to-compile-and-run)
+[How to Use the App](#how-to-use-the-app)
+[Gamification Feature](#gamification-feature)
 
 
 ## How to Compile and Run
@@ -39,8 +41,8 @@ Earn points for correct ordering. Challenge yourself to beat your high score and
 | -------- | -------- | -------- |
 | completed   | incomplete   |incomplete   |
 
+![librarywithbooks](https://github.com/uzzi002/GitPages/assets/101901963/d885ce71-2f36-484a-804c-abee8dc6da82)
 
-![library-with-books](https://github.com/uzzi002/GitPages/assets/101901963/a20fec66-7b4d-451a-8b10-5a9674939ac6)
 
 - [x] Part 1
 - [ ] Part 2
