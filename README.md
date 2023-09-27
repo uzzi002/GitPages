@@ -44,7 +44,6 @@ Earn points for correct ordering. Challenge yourself to beat your high score and
 
 ![library](https://github.com/uzzi002/GitPages/assets/101901963/cae40d18-72e4-4c17-a10f-0f326537b575)
 
-
 - [x] Part 1
 - [ ] Part 2
 - [ ] Part 3
